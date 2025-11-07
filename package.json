@@ -1,0 +1,9 @@
+{
+  "name": "shnayim-api-clean",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@orthodox-union/shnayimmikrah": "^1.0.6"
+  }
+}
